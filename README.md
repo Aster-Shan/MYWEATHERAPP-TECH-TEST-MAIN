@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyWeather App Tech Test
 
 Welcome to the MyWeather App Tech Test.
@@ -38,3 +39,6 @@ You will need to implement these features by adding new endpoints to the `Weathe
 * Once you're ready to submit, raise a Pull Request to merge your changes with your main branch and share the repo with us.
 
 Good luck!
+=======
+# MYWEATHERAPP-TECH-TEST-MAIN
+>>>>>>> 6b78bb3c4cc96fff63db94a2b7866903cb54eeac
